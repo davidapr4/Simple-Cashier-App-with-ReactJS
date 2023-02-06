@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Simple-Cashier-App-with-ReactJS/static/css/main.394c64fc.css",
+    "main.js": "/Simple-Cashier-App-with-ReactJS/static/js/main.9826e82c.js",
+    "static/js/787.c1d46c0e.chunk.js": "/Simple-Cashier-App-with-ReactJS/static/js/787.c1d46c0e.chunk.js",
+    "index.html": "/Simple-Cashier-App-with-ReactJS/index.html",
+    "main.394c64fc.css.map": "/Simple-Cashier-App-with-ReactJS/static/css/main.394c64fc.css.map",
+    "main.9826e82c.js.map": "/Simple-Cashier-App-with-ReactJS/static/js/main.9826e82c.js.map",
+    "787.c1d46c0e.chunk.js.map": "/Simple-Cashier-App-with-ReactJS/static/js/787.c1d46c0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.394c64fc.css",
+    "static/js/main.9826e82c.js"
+  ]
+}
